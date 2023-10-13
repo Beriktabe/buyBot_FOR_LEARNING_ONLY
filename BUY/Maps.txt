@@ -1,0 +1,17 @@
+name:Altered Distant Memory
+@
+name:Augmented Distant Memory
+@
+name:Rewritten Distant Memory
+@
+name:Twisted Distant Memory
+@
+name:Cortex
+@
+mode:Map contains Drox's Citadel (implicit)
+@
+mode:Map contains Baran's Citadel (implicit)
+@
+mode:Map contains Veritania's Citadel (implicit)
+@
+mode:Map contains Al-Hezmin's Citadel (implicit)
